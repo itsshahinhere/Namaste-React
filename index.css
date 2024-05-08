@@ -1,0 +1,17 @@
+#parent {
+  background-color: black;
+}
+
+#child {
+  background-color: white;
+}
+
+#child11 {
+  background-color: orange;
+  color: red;
+}
+
+#child12 {
+  background-color: green;
+  color: blue;
+}
